@@ -1,0 +1,14 @@
+global.c:19:6:initialize	8	static
+global.c:29:6:red_green	8	static
+global.c:37:6:red_amber	8	static
+global.c:45:6:green_red	8	static
+global.c:53:6:amber_red	8	static
+global.c:61:6:turn_red	8	static
+global.c:69:6:turn_amber	8	static
+global.c:77:6:turn_green	8	static
+global.c:86:6:blink_red	8	static
+global.c:94:6:blink_amber	8	static
+global.c:102:6:blink_green	8	static
+global.c:110:6:display7SEG	16	static
+global.c:206:6:update7SEG	16	static
+global.c:240:6:updateBuffer	16	static
